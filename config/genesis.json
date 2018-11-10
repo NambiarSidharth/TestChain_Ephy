@@ -1,0 +1,51 @@
+{
+    "genesis_time": "2018-11-10T04:00:00.961357009Z",
+    "chain_id": "Euph-test-NET-24z12s",
+    "consensus_params": {
+      "block_size_params": {
+        "max_bytes": "22020096",
+        "max_gas": "-1"
+      },
+      "evidence_params": {
+        "max_age": "10000000000"
+      }
+    },
+    "validators": [
+      {
+        "address":"C40021EF4373359EF7C4D91187DE497A1939CAED",
+        "pub_key":{
+        "type":"tendermint/PubKeyEd25519",
+        "value":"DR1sZHCRWWfEIztc3ocg81Lb3yOfNFHIPCyA7s0v0bc="
+        },
+        "power": "200",
+        "name": "K Sidhartha Nambiar"
+      },
+      {
+        "address":"2A460D5C51375C56A19552F9F9615EF65F6C355F",
+    "pub_key":{
+        "type":"tendermint/PubKeyEd25519",
+        "value":"L3GEPcO0Q88T4mDkQ2mK7Eh0J2KRmFvUzjc4U0g6M+E="
+        },
+        "power": "200",
+        "name": "Keshava Pranath K"
+      },
+      {
+        "address":"923872DD2ED7A85562EB7341C3440975D0F2B416",
+        "pub_key":{
+        "type":"tendermint/PubKeyEd25519",
+        "value":"XCPg3dsCqF9Ol49ipauwxKDHYsxwcYp14Hhf2hczt+Q="},
+        "power": "200",
+        "name": "Karthik Iyer"
+      },
+      {
+        "address":"D6A0AC5DAF35D11BD0C2462DD187BCF5B4301D82",
+        "pub_key":{
+        "type":"tendermint/PubKeyEd25519",
+        "value":"n/9idYxZM4LIL3uEISuddplEivELe8uo74udVis//VM="},
+        "power": "200",
+        "name": "Preeti G"
+      }
+    ],
+    "app_hash": ""
+  }
+  
